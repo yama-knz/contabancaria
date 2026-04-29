@@ -2,7 +2,7 @@ package conta_bancaria;
 
 import java.util.Scanner;
 
-import util.Cores;
+import conta_bancaria.utils.Cores;
 
 public class Menu {
 	public static void main(String[] args) {
