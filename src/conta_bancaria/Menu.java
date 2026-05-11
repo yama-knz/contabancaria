@@ -176,7 +176,7 @@ public class Menu {
 		contaController.cadastrar(
 				new ContaCorrente(contaController.gerarNumero(), 456, 1, "Maria dos Santos", 2000.00f, 200.00f));
 		contaController.cadastrar(
-				new ContaPoupanca(contaController.gerarNumero(), 789, 1, "Mariana Hernandez", 10000.00f, 12));
+				new ContaPoupanca(contaController.gerarNumero(), 789, 2, "Mariana Hernandez", 10000.00f, 12));
 		contaController.cadastrar(
 				new ContaPoupanca(contaController.gerarNumero(), 123, 2, "Giovanna Giunchetti", 8000.00f, 23));
 	}
